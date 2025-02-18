@@ -9,7 +9,8 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore
 
 Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
 
- 
+ [PLANILHA DIO.xlsx](https://github.com/user-attachments/files/18854226/PLANILHA.DIO.xlsx)
+
 
 Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
 
